@@ -1,6 +1,6 @@
-1. Crie um programa que imprima a sequência dos 100 próximos números inteiros, seguintes a um
+/*1. Crie um programa que imprima a sequência dos 100 próximos números inteiros, seguintes a um
 valor fornecido pela pessoa utilizadora.
-
+*/
 
 import java.util.Scanner;
 class Main {
