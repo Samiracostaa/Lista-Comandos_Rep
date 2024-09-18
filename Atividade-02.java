@@ -2,8 +2,6 @@
 ou seja, A*B, por intermédio de adições sucessivas. Tanto A quanto B devem ser fornecidos
 pela pessoa utilizadora do programa.
 */
-
-
 import java.util.Scanner;
 
 class Main {
