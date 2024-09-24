@@ -58,7 +58,5 @@ class Main {
       
         double porcentagemPesoMenor40 = (double) contadorP / t * 100;
         System.out.println("Porcentagem de pessoas com peso inferior a 40 quilos: " + porcentagemPesoMenor40 + "%");
-
-        entrada.close();
     }
 }
