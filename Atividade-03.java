@@ -30,7 +30,7 @@ class Main {
             System.out.print("Deseja calcular para outra massa? (s/n): ");
             cont = entrada.next().charAt(0);
 
-        } while (cont == 's' || cont == 'S');
+        } while (cont == 's');
 
     }
 }
